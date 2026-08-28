@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a programmer who enjoys learning new things. While I do work with AI tools occasionally, I prefer writing the code myself and only use AI as a helper when needed. When I'm not coding, I enjoy playing games.
+I'm a programmer who enjoys learning new things. While I do work with AI tools occasionally, I prefer writing the code myself and only use AI as a helper when needed. When I'm not coding, I enjoy playing games and i love chess. 
 
 
 ## 🌐 Socials:
